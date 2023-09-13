@@ -1,0 +1,1 @@
+project to study the rabbitmq apply in golang
